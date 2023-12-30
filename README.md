@@ -1,4 +1,4 @@
-This website is just a protype for my big project "Cleaning Fairy", which is a big e-commerce website.<br>
+This website is just a protype for my big project "Cleaning Fairy", which is an e-commerce website.<br>
 This was made just to practice django framework.<br>
 This website has used django framework as backend and HTML, CSS and javascript for frontend.<br>
 This website has a home page and fully functional contact form which can be used to store the details of the consumers and store it.<br>
